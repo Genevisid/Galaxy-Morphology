@@ -1,2 +1,2 @@
 # Galaxy-Morphology
-Galaxy Morphology Models with corresponding notebooks based on various pre-trained models
+Galaxy Morphology Models trained on the [Galaxy10 SDSS Dataset](https://astronn.readthedocs.io/en/latest/galaxy10sdss.html) with corresponding notebooks based on pre-trained [Functional TensorFlow models](https://www.tensorflow.org/guide/keras/functional_api) with a few modifications
