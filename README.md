@@ -5,4 +5,4 @@ Galaxy Morphology Models trained on the [Galaxy10 SDSS Dataset](https://astronn.
 
 ## [DeneseNet(121, 169, 201)](https://www.tensorflow.org/api_docs/python/tf/keras/applications/densenet)
 
-###Modifications
+### Modifications
